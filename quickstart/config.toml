@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Qian(Sen)の競プロメモ'
+theme = 'book_customed'
